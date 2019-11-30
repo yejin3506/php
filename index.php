@@ -7,6 +7,6 @@
     <title>메롱메롱</title>
 </head>
 <body>
-    안녕하세요
+    안녕하세요 제 이름은 최종찬입니다
 </body>
 </html>
